@@ -1,0 +1,9 @@
+[submodule "admin"]
+	path = admin
+	url = https://github.com/hoang2807/Hiring-Manager-Admin.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/hoang2807/Hiring-Manager-Backend.git
+[submodule "user"]
+	path = user
+	url = https://github.com/hoang2807/Hiring-Manager-User.git
